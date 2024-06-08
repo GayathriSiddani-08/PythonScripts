@@ -1,0 +1,1 @@
+CREATE TABLE students(id Int, name varchar(60), grade float);
